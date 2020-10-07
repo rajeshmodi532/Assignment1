@@ -4,13 +4,17 @@ import java.io.File;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
+
+import constants.Browserlaunch;
+
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.TakesScreenshot;
-import constants.Browserlaunch;
 import functionlib.Functions;
 import utils.XLutils;
 
-public class runner extends constants.Browserlaunch {
+//public class runner extends constants.Browserlaunch
+public class runner extends Browserlaunch
+{
 
 	WebDriver driver;
 
