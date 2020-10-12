@@ -29,6 +29,8 @@ public class Browserlaunch {
 		}
 		return driver;
 	}
+	
+	//Comments on Oct 12 2020 - To check Repository conflicts
 
 //  code to lunch application 
 	public static void launchApp() throws Exception {
