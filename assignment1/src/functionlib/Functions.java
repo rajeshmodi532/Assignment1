@@ -8,6 +8,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import constants.Browserlaunch;
+// comments on 14 oct 2020 to check the conflicts
 
 public class Functions extends Browserlaunch {
 	// code to click
